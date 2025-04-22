@@ -21,7 +21,7 @@ A Python implementation of a coffee machine that can make various types of coffe
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/coffee-machine.git
+git clone https://github.com/monish135/coffee-machine.git
 cd coffee-machine
 ```
 
@@ -67,4 +67,4 @@ python3 -m unittest test_coffee_machine.py -v
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
